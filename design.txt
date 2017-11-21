@@ -5,3 +5,7 @@ Only diatonic scales?
 Could create a LaTeX file as output, alt. only console output
 
 Outputs all types of chords that can be created from that scale
+
+Example output:
+	I ii iii IV V vi vii°
+
